@@ -92,3 +92,24 @@ header{
 .card-movie img:hover{
     transform: scale(2,2,2,2);
 }
+footer{
+    position: relative;
+}
+.kalango{
+    position: relative;
+    display: inline-block;
+    width: 50%;
+    align-items: right;
+    vertical-align: middle;
+    
+}
+.romildo{
+    position: relative;
+    display: inline-block;
+    width: 50%;
+    margin-top: 10px;
+    text-align: left;
+}
+romildo a{
+    text-decoration: none;
+}
